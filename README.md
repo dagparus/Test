@@ -1,4 +1,5 @@
 test
 ====
 
-https://github.com/dagparus/test.git
+git remote add origin https://github.com/dagparus/asd.git
+git push -u origin master
