@@ -1,4 +1,4 @@
-https://github.com/dagparus/test.git
+test
 ====
 
-Test
+https://github.com/dagparus/test.git
